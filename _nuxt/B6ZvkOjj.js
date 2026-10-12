@@ -1,0 +1,1 @@
+import{k as a,a3 as n,l as o,a4 as r,m as s}from"./CgwkNru_.js";const f=a({__name:"index",async setup(_){let e,t;return[e,t]=n(()=>r("/offers/test-offer",{replace:!0})),await e,t(),(c,p)=>(s(),o("p",null,"Открываем демонстрационное предложение…"))}});export{f as default};
